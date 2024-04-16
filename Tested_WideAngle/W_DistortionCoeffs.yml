@@ -1,0 +1,6 @@
+%YAML:1.0
+Distortion coeffs matrix: !!opencv-matrix
+   rows: 5
+   cols: 1
+   dt: d
+   data: [ -1.981129e-06,1.157857e-12, 0., 0., 0.]
