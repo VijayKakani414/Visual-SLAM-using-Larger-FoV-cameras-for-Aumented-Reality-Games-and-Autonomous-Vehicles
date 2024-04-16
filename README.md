@@ -7,3 +7,4 @@
 
 ![SLAM DEVELOPMENT](https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles/assets/25151205/7745cc6e-694a-4e40-925d-f893e481aa97)
 
+![ScaleEstimatecloud](https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles/assets/25151205/db576098-de1f-49ba-a01b-fa0cff90b837)
