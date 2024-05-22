@@ -1,6 +1,6 @@
-# Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles
+# Visual-SLAM-using-Larger-FoV-cameras-for-Aumented-Reality-Games-and-Autonomous-Vehicles
 
-This repository contains all my research project details pertaining to the Visual SLAM for Larger FoV cameras on Autonomous Vehicles
+This repository contains all my research project details pertaining to the Visual SLAM using Larger FoV cameras for Augmented Relaity and Autonomous Vehicles
 
 ![6](https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles/assets/25151205/e988e4b8-7ac6-4207-96fa-9742a022c4cc)
 
@@ -18,7 +18,7 @@ This repository contains:
 ## Repository Structure
 
 The repository is structured as follows:
-- Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles 
+- Visual-SLAM-using-Larger-FoV-cameras-for-Aumented-Reality-Games-and-Autonomous-Vehicles
   - DBoW2
   - Tested_Fisheye
   - Tested_WideAngle
@@ -35,7 +35,7 @@ The repository is structured as follows:
 https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles.git
 
 2. **Navigate to Specific Module**: 
-cd Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles/src
+cd Visual-SLAM-using-Larger-FoV-cameras-for-Aumented-Reality-Games-and-Autonomous-Vehicles/src
 
 3. **Modify relevant code-snippet**: Work on code-snippet provided in the `src` directory.
 
