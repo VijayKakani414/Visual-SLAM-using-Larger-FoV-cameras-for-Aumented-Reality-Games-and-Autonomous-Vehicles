@@ -32,20 +32,20 @@ The repository is structured as follows:
 ## Getting Started
 
 1. **Clone the Repository**: 
-https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles.git
+https://github.com/VijayKakani414/Visual-SLAM-using-Larger-FoV-cameras-for-Aumented-Reality-Games-and-Autonomous-Vehicles.git
 
 2. **Navigate to Specific Module**: 
 cd Visual-SLAM-using-Larger-FoV-cameras-for-Aumented-Reality-Games-and-Autonomous-Vehicles/src
 
 3. **Modify relevant code-snippet**: Work on code-snippet provided in the `src` directory.
 
-## vSLAM demo on Fish-Eye and Wide-Angle camera sensors (Rear-view perspective) for Scale Estimation through Point-cloud
-
-![Main_vSLAMdemorecordWA_ADAS1](https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles/assets/25151205/5d53bdb9-373b-4280-8001-94cc1ec28eda)
-
 ## vSLAM demo on cleaning robot camera sensor rovering indoors (Frontal-view perspective) for Scale Estimation through Point-cloud 
 
 ![ScaleEstimatecloud](https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles/assets/25151205/db576098-de1f-49ba-a01b-fa0cff90b837)
+
+## vSLAM demo on Fish-Eye and Wide-Angle camera sensors (Rear-view perspective) for Scale Estimation through Point-cloud
+
+![Main_vSLAMdemorecordWA_ADAS1](https://github.com/VijayKakani414/Visual-SLAM-for-Larger-FoV-cameras-on-Autonomous-Vehicles/assets/25151205/5d53bdb9-373b-4280-8001-94cc1ec28eda)
 
 ## Contribution Guidelines
 
